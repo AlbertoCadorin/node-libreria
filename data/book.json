@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "title": "Il nome della rosa",
+        "author": "Umberto Eco",
+        "year": 1980,
+        "available": true
+      },
+      {
+        "id": 2,
+        "title": "Il Libro sei cinque anelli",
+        "author": "Miyamoto Musashi",
+        "year": 1645,
+        "available": true
+      },
+      {
+        "id": 3,
+        "title": "Il Silmarillion",
+        "author": "Tolkien",
+        "year": 1977,
+        "available": true
+      },
+      {
+        "id": 4,
+        "title": "L'arte della guerra",
+        "author": "Sun Tzu",
+        "year":  1994,
+        "available": true
+      },
+      {
+        "id": 5,
+        "title": "Sei di corvi",
+        "author": "Leigh Bardugo",
+        "year": 2019,
+        "available": true
+      },
+      {
+        "id": 6,
+        "title": "Divina Commedia",
+        "author": "Dante Alighieri",
+        "year": 1321,
+        "available": true
+      }
+]
+
